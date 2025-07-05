@@ -1,0 +1,11 @@
+{
+    "id": "botble/agecheck",
+    "name": "AgeCheck",
+    "namespace": "Botble\\AgeCheck\\",
+    "provider": "Botble\\AgeCheck\\Providers\\AgeCheckServiceProvider",
+    "author": "Mohit Hasan",
+    "url": "https://mohithasan.com",
+    "version": "1.0.0",
+    "description": "Age Checker for Botble CMS",
+    "minimum_core_version": "7.3.0"
+}
