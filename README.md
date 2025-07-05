@@ -77,7 +77,7 @@ Please follow coding standards and test thoroughly before submitting.
 ## Contact
 
 Created by [Mohit-Hasan] - [hello@mohithasan.com]  
-GitHub: [https://github.com/Mohit-Hasan/age-check-botble](https://github.com/yourusername/age-check-botble)
+GitHub: [https://github.com/Mohit-Hasan/age-check-botble](https://github.com/Mohit-Hasan/age-check-botble)
 
 ---
 ## Acknowledgments
